@@ -1,4 +1,4 @@
-import reactLogo from './assets/lego.jpg';
+import reactLogo from './assets/logo.jpg';
 
 export default function App() {
   return (
